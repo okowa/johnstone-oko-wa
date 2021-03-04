@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/https://github.com/okowa/johnstone-oko-wa.git/static/css/main.619ee669.chunk.css",
+    "main.js": "/https://github.com/okowa/johnstone-oko-wa.git/static/js/main.035bbd55.chunk.js",
+    "main.js.map": "/https://github.com/okowa/johnstone-oko-wa.git/static/js/main.035bbd55.chunk.js.map",
+    "runtime-main.js": "/https://github.com/okowa/johnstone-oko-wa.git/static/js/runtime-main.c4b4965d.js",
+    "runtime-main.js.map": "/https://github.com/okowa/johnstone-oko-wa.git/static/js/runtime-main.c4b4965d.js.map",
+    "static/js/2.65272ea9.chunk.js": "/https://github.com/okowa/johnstone-oko-wa.git/static/js/2.65272ea9.chunk.js",
+    "static/js/2.65272ea9.chunk.js.map": "/https://github.com/okowa/johnstone-oko-wa.git/static/js/2.65272ea9.chunk.js.map",
+    "static/js/3.ae40bae8.chunk.js": "/https://github.com/okowa/johnstone-oko-wa.git/static/js/3.ae40bae8.chunk.js",
+    "static/js/3.ae40bae8.chunk.js.map": "/https://github.com/okowa/johnstone-oko-wa.git/static/js/3.ae40bae8.chunk.js.map",
+    "index.html": "/https://github.com/okowa/johnstone-oko-wa.git/index.html",
+    "static/css/main.619ee669.chunk.css.map": "/https://github.com/okowa/johnstone-oko-wa.git/static/css/main.619ee669.chunk.css.map",
+    "static/js/2.65272ea9.chunk.js.LICENSE.txt": "/https://github.com/okowa/johnstone-oko-wa.git/static/js/2.65272ea9.chunk.js.LICENSE.txt",
+    "static/media/construction.8852c89a.gif": "/https://github.com/okowa/johnstone-oko-wa.git/static/media/construction.8852c89a.gif",
+    "static/media/index.css": "/https://github.com/okowa/johnstone-oko-wa.git/static/media/intro.fca974ac.jpg",
+    "static/media/johnny.d01472f2.jpg": "/https://github.com/okowa/johnstone-oko-wa.git/static/media/johnny.d01472f2.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c4b4965d.js",
+    "static/js/2.65272ea9.chunk.js",
+    "static/css/main.619ee669.chunk.css",
+    "static/js/main.035bbd55.chunk.js"
+  ]
+}
