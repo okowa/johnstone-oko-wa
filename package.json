@@ -1,0 +1,9 @@
+{
+  "name": "johnstone-oko-wa",
+  "version": "1.0.0",
+  "description": "my freelancer site",
+  "main": "index.js",
+  "repository": "https://github.com/okowa/johnstone-oko-wa.git",
+  "author": "johnstone okowa",
+  "license": "MIT"
+}
