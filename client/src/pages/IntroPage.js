@@ -20,7 +20,7 @@ const IntroPage = () => {
                         <Card.Text>
                             Hi, I am Johnstone Wafula Okoth
                             I am a self taught Web Developer for 2 years..I deal with the MERN stack.
-                            I have a couple of projects I made with the below Software
+                            I have a couple of projects I made check the PROJECTS tab
                         </Card.Text>
                     </Card.Body>
                 </Card>
