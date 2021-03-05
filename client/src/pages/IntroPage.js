@@ -1,11 +1,11 @@
-import React from 'react'
-import {Card, Container} from 'react-bootstrap'
+import React,{ Fragment } from 'react'
+import {Card} from 'react-bootstrap'
 import Typed from 'react-typed';
 
 const IntroPage = () => {
     return (
 
-        <Container>
+        <Fragment>
             <div className='intro__wrapper'>
                 <Typed
                     className='typed-text mt-1 '
@@ -25,8 +25,8 @@ const IntroPage = () => {
                     </Card.Body>
                 </Card>
             </div>
+        </Fragment>
 
-        </Container>
 
     );
 };

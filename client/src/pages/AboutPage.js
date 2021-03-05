@@ -1,5 +1,6 @@
 import React from 'react'
 import { Container } from 'react-bootstrap'
+import johnny from '../components/layout/johnny.jpg';
 
 const About = () => {
     return (
@@ -8,7 +9,7 @@ const About = () => {
 
                 <div className='page_dashboard'>
                     <div className="johnny">
-                        <img src="/images/johnny/johnny.jpg" alt="johnstone" />
+                        <img src={johnny} alt=""/>
                     </div>
                     <p>
                         Hello! I am Johnstone Wafula Okoth.I am a self taught  Web Developer.I have been developing
