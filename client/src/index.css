@@ -92,12 +92,12 @@ body {
 .contact {
   padding: 100px 0;
   background: linear-gradient(180deg, rgba(255,235,59,1) 0%, rgba(253,216,53,1) 54%, rgba(249,168,37,1) 100%);
-  background: #e0e793;
   background: -moz-radial-gradient(bottom right, #e0e793, #6dd0f1);
   background: radial-gradient(to top left, #e0e793, #6dd0f1);
   background: -webkit-radial-gradient(bottom right, #e0e793, #6dd0f1);
   border-radius: 30px;
-  box-shadow: 0 0 1rem 0 rgba(0, 0, 0, .2);
+
+  box-shadow: 10px 15px 15px #5F9EA0;
   flex-grow: 100;
   display: grid;
   font-family: 'Inconsolata', monospace;
