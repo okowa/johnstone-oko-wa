@@ -1,5 +1,6 @@
 import React,{ Fragment } from 'react'
 import {Card} from 'react-bootstrap'
+import { Container } from "react-bootstrap";
 import Typed from 'react-typed';
 
 const IntroPage = () => {
@@ -15,15 +16,18 @@ const IntroPage = () => {
                     loop/>
             </div>
             <div>
-                <Card className='intro__page__card'>
-                    <Card.Body>
-                        <Card.Text>
-                            Hi, I am Johnstone Wafula Okoth
-                            I am a self taught Web Developer for 2 years..I deal with the MERN stack.
-                            I have a couple of projects I made check the PROJECTS tab
-                        </Card.Text>
-                    </Card.Body>
-                </Card>
+                <Container>
+                    <Card className='intro__page__card'>
+                        <Card.Body>
+                            <Card.Text>
+                                Hi, I am Johnstone Wafula Okoth
+                                I am a self taught Web Developer for 2 years..I deal with the MERN stack.
+                                I have a couple of projects I made check the PROJECTS tab
+                            </Card.Text>
+                        </Card.Body>
+                    </Card>
+                </Container>
+
             </div>
         </Fragment>
 
