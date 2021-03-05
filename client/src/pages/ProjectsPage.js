@@ -2,12 +2,14 @@ import React from 'react'
 import { Container } from 'react-bootstrap'
 import { Carousel } from 'react-bootstrap'
 
+
+
 const ProjectsPage = () => {
 
 
     return (
             <Container>
-                <h2>My Projects</h2>&nbsp;&nbsp;
+                <h2>My Projects</h2>
                 <div className='page_dashboard'>
                     <div className='project1'>
                         <ol>
@@ -22,21 +24,23 @@ const ProjectsPage = () => {
                         <Carousel>
                             <Carousel.Item>
                                 <img
-                                    src="/images/wald-kiga/wald-kinder-header.png"
-                                    alt=""/>
+                                    src={(process.env.PUBLIC_URL + "/images/wald-kiga/wald-kinder-header.png")}
+                                    alt=""
+
+                                />
                                 <Carousel.Caption>
                                 </Carousel.Caption>
                             </Carousel.Item>
                             <Carousel.Item>
                                 <img
-                                    src="/images/wald-kiga/wald-kinder-body.png"
+                                    src={(process.env.PUBLIC_URL + "/images/wald-kiga/wald-kinder-body.png")}
                                     alt=""/>
                                     <Carousel.Caption>
                                     </Carousel.Caption>
                             </Carousel.Item>
                             <Carousel.Item>
                                 <img
-                                    src="/images/wald-kiga/wald-kinder-footer.png"
+                                    src={(process.env.PUBLIC_URL + "/images/wald-kiga/wald-kinder-footer.png")}
                                     alt=""/>
                                     <Carousel.Caption>
                                    </Carousel.Caption>
@@ -62,7 +66,7 @@ const ProjectsPage = () => {
                             <Carousel.Item>
 
                                 <img
-                                    src="/images/okowa-shop/sign-up.png"
+                                    src={(process.env.PUBLIC_URL + "/images/okowa-shop/sign-up.png")}
                                     alt=""
                                 />
                                 <Carousel.Caption>
@@ -71,17 +75,7 @@ const ProjectsPage = () => {
                             <Carousel.Item>
                                 <img
 
-                                    src="/images/okowa-shop/sign-in.png"
-                                    alt=""
-                                />
-
-                                <Carousel.Caption>
-
-                                </Carousel.Caption>
-                            </Carousel.Item>
-                            <Carousel.Item>
-                                <img
-                                    src="/images/okowa-shop/home-page.png"
+                                    src={(process.env.PUBLIC_URL + "/images/okowa-shop/sign-in.png")}
                                     alt=""
                                 />
 
@@ -91,7 +85,7 @@ const ProjectsPage = () => {
                             </Carousel.Item>
                             <Carousel.Item>
                                 <img
-                                    src="/images/okowa-shop/detail-product.png"
+                                    src={(process.env.PUBLIC_URL + "/images/okowa-shop/home-page.png")}
                                     alt=""
                                 />
 
@@ -101,7 +95,17 @@ const ProjectsPage = () => {
                             </Carousel.Item>
                             <Carousel.Item>
                                 <img
-                                    src="/images/okowa-shop/shopping-cart.png"
+                                    src={(process.env.PUBLIC_URL + "/images/okowa-shop/detail-product.png")}
+                                    alt=""
+                                />
+
+                                <Carousel.Caption>
+
+                                </Carousel.Caption>
+                            </Carousel.Item>
+                            <Carousel.Item>
+                                <img
+                                    src={(process.env.PUBLIC_URL + "/images/okowa-shop/shopping-cart.png")}
                                     alt="Third slide"
                                 />
 

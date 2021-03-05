@@ -13,12 +13,7 @@ body {
   font-weight: bold;
 }
 
-.navbar {
- width: 100%;
-  height: 18%;
-  font-weight: bold;
 
-}
 
 .johnny {
   padding: 5%;
@@ -127,7 +122,7 @@ text-decoration: none;
 { /*PROJECTS*/
 }
 .project1 img {
-  height: 400px;
+  height: 450px;
   width: 100%;
 }
 
@@ -153,6 +148,7 @@ text-decoration: none;
   padding-top: 170px;
   padding-bottom: 170px;
 
+
 }
 
 .intro__wrapper {
@@ -164,28 +160,20 @@ text-decoration: none;
   -moz-background-size: cover;
   -o-background-size: cover;
 
-
-  min-height: 50vh;
+  min-height: 55vh;
   min-width: 100%;
-  width: 100%;
-  height: 50%;
-  margin-top: -3rem;
-
-  left: 0;
-
-
+  margin-top: -8rem;
 
 }
 .profile {
-  width: 100%;
-  margin-top: 1rem;
-  border-bottom: 1px solid #2e344e;
+  width: 40%;
+
 }
 .profile img{
   width: 20%;
   border-radius: 100%;
   border: 5px solid #2e344e;
- margin-left: -18rem;
+
 
 }
 .page_dashboard {
@@ -206,5 +194,5 @@ text-decoration: none;
 .under__construction {
   position: center;
   justify-content: center;
-  margin-left: 9rem;
+
 }

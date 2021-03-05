@@ -1,6 +1,6 @@
 import React from 'react';
 import { LinkContainer } from 'react-router-bootstrap'
-import { Navbar, Nav, Container } from 'react-bootstrap'
+import { Navbar, Nav } from 'react-bootstrap'
 import johnny from './johnny.jpg';
 
 const Header = () => {
@@ -8,7 +8,7 @@ const Header = () => {
     return (
         <header>
             <Navbar className="navbar" bg='dark fixed-top' variant='dark' expand='lg' collapseOnSelect>
-                <Container>
+
                     <div className="profile" >
                         <img src={johnny} alt=""/>
                     </div>
@@ -45,7 +45,7 @@ const Header = () => {
                             </LinkContainer>
                         </Nav>
                     </Navbar.Collapse>
-                </Container>
+
             </Navbar>
         </header>
     )
