@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/johnstone-oko-wa/static/css/main.26b3bbbc.chunk.css",
-    "main.js": "/johnstone-oko-wa/static/js/main.a441c0e9.chunk.js",
-    "main.js.map": "/johnstone-oko-wa/static/js/main.a441c0e9.chunk.js.map",
+    "main.js": "/johnstone-oko-wa/static/js/main.317c7396.chunk.js",
+    "main.js.map": "/johnstone-oko-wa/static/js/main.317c7396.chunk.js.map",
     "runtime-main.js": "/johnstone-oko-wa/static/js/runtime-main.ba8a383a.js",
     "runtime-main.js.map": "/johnstone-oko-wa/static/js/runtime-main.ba8a383a.js.map",
     "static/js/2.5d0e20d9.chunk.js": "/johnstone-oko-wa/static/js/2.5d0e20d9.chunk.js",
@@ -20,6 +20,6 @@
     "static/js/runtime-main.ba8a383a.js",
     "static/js/2.5d0e20d9.chunk.js",
     "static/css/main.26b3bbbc.chunk.css",
-    "static/js/main.a441c0e9.chunk.js"
+    "static/js/main.317c7396.chunk.js"
   ]
 }
