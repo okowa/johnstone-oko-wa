@@ -1,8 +1,8 @@
 import React ,{Fragment}from "react";
-//import { Container } from 'react-bootstrap'
+import IntroPage from '../pages/IntroPage'
 import AboutPage from '../pages/AboutPage'
 import ContactPage from '../pages/ContactPage'
-import IntroPage from '../pages/IntroPage'
+
 
 
 

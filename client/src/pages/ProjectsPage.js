@@ -124,7 +124,8 @@ const ProjectsPage = () => {
                             This is a full MERN project.A project of multiple shops and businesses where users can
                             sell products, create E-Shop,sell services and offer jobs.There is three admin sections
                             main admin section,shop admin section,and a service provider admin section.Here users
-                            can also make posts and chat.
+                            can also make posts and chat, review on quality of shops and services offered.Users can
+                            also login or access their account using social media platform i.e Google or facebook
                             Its a big project so its not finished yet.
                         </p>
                         <p className='heroku__clicks'>
@@ -134,19 +135,9 @@ const ProjectsPage = () => {
                         </p>
                         <Carousel>
                             <Carousel.Item>
+
                                 <img
-                                    src="/images/projects/okowa-business/signup.png"
-                                    alt=""
-                                />
-                                <Carousel.Caption>
-
-
-                                </Carousel.Caption>
-                            </Carousel.Item>
-                            <Carousel.Item>
-                                <img
-
-                                    src="/images/projects/okowa-business/login.png"
+                                    src={(process.env.PUBLIC_URL + "/images/shop-it/shopit-register.png")}
                                     alt=""
                                 />
                                 <Carousel.Caption>
@@ -154,42 +145,13 @@ const ProjectsPage = () => {
                             </Carousel.Item>
                             <Carousel.Item>
                                 <img
-                                    src="/images/projects/okowa-business/forgot-password.png"
+                                    src={(process.env.PUBLIC_URL + "/images/shop-it/shopit-signin.png")}
                                     alt=""
                                 />
-
                                 <Carousel.Caption>
                                 </Carousel.Caption>
                             </Carousel.Item>
 
-                            <Carousel.Item>
-                                <img
-                                    src="/images/projects/okowa-business/main-page.png"
-                                    alt=""
-                                />
-
-                                <Carousel.Caption>
-                                </Carousel.Caption>
-                            </Carousel.Item>
-
-                            <Carousel.Item>
-                                <img
-                                    src="/images/projects/okowa-business/service-list.png"
-                                    alt=""
-                                />
-
-                                <Carousel.Caption>
-                                </Carousel.Caption>
-                            </Carousel.Item>
-                            <Carousel.Item>
-                                <img
-                                    src="/images/projects/okowa-business/servicers-shop-info.png"
-                                    alt=""
-                                />
-
-                                <Carousel.Caption>
-                                </Carousel.Caption>
-                            </Carousel.Item>
                         </Carousel>
                     </div>
                 </div>

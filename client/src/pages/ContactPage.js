@@ -17,7 +17,7 @@ const ContactPage = () => {
                                         <div className='px-2'>
                                             <ul>
                                                 <li>
-                                                    <i className="fas fa-phone"></i> +0000000000000
+                                                    <i className="fas fa-phone"></i> 015156860485
                                                 </li>
                                                 <li>
                                                     <a
